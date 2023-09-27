@@ -1,3 +1,7 @@
 pypylon
 fastapi
 "uvicorn[standard]"
+numpy
+opencv-python
+pillow
+redis
