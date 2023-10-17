@@ -1,6 +1,6 @@
 pypylon
 fastapi
-"uvicorn[standard]"
+uvicorn[standard]
 numpy
 opencv-python
 pillow
